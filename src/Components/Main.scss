@@ -1,0 +1,13 @@
+.home {
+    display: flex;
+  
+    .homeContainer {
+      flex: 2;
+  
+      .widgets{
+        padding: 20px;
+        gap: 20px;
+      }
+    }
+  }
+  

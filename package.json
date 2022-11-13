@@ -1,0 +1,70 @@
+{
+  "name": "leanspace-react-starter-kit",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@mui/icons-material": "^5.4.4",
+    "@mui/x-data-grid": "^5.5.1",
+    "react-circular-progressbar": "^2.0.4",
+    "react-router-dom": "^6.2.2",
+    "recharts": "^2.1.9",
+    "@aws-amplify/auth": "4.3.3",
+    "@aws-amplify/core": "4.2.7",
+    "@craco/craco": "6.4.5",
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@leanspace/dashboard-sdk": "1.31.2",
+    "@leanspace/js-client": "^2.21.0",
+    "@material-ui/core": "4.12.3",
+    "@material-ui/icons": "4.11.2",
+    "@material-ui/lab": "4.0.0-alpha.60",
+    "@mui/lab": "5.0.0-alpha.107",
+    "@mui/material": "^5.10.13",
+    "@tanstack/react-query": "^4.14.6",
+    "@testing-library/jest-dom": "5.14.1",
+    "@testing-library/react": "11.2.7",
+    "@testing-library/user-event": "12.8.3",
+    "cesium": "1.95.0",
+    "install": "^0.13.0",
+    "ky": "0.28.5",
+    "npm": "^9.1.1",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-query": "3.31.0",
+    "react-scripts": "4.0.3",
+    "resium": "1.15.1",
+    "sass": "^1.56.1",
+    "web-vitals": "1.1.2"
+  },
+  "scripts": {
+    "start": "craco --openssl-legacy-provider start",
+    "build": "craco --openssl-legacy-provider build",
+    "test": "craco test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "engines": {
+    "node": ">=16.15.0",
+    "npm": ">=8.5.5"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "craco-cesium": "1.2.0"
+  }
+}
