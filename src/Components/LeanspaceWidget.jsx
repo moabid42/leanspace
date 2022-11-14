@@ -33,7 +33,7 @@ const LeanspaceWidget = ({
           apiUrl={API_BASE_URL}
           tenantId={TENANT}
           widgetConfiguration={widgetId}
-          dateRange='from 500 minutes ago to now'
+          dateRange='from 23 hours ago to now'
           onDateRangeChange={() => {}}
           shouldUseStaticResults={false}
         />

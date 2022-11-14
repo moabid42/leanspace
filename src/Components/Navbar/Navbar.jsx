@@ -8,6 +8,8 @@ import ChatBubbleOutlineOutlinedIcon from "@mui/icons-material/ChatBubbleOutline
 import ListOutlinedIcon from "@mui/icons-material/ListOutlined";
 // import { DarkModeContext } from "../../context/darkModeContext";
 import { useContext } from "react";
+import React, { useState } from "react";
+import DropdownMenu from "./Dropdown";
 
 const Navbar = () => {
 //   const { dispatch } = useContext(DarkModeContext);
@@ -15,15 +17,17 @@ const Navbar = () => {
   return (
     <div className="navbar">
       <div className="wrapper">
-        <div className="search">
-          <input type="text" placeholder="Search..." />
-          <SearchOutlinedIcon />
+        <div className="dropdown">
+
+        {/* <div className="search"> */}
+          {/* <input type="text" placeholder="Search..." />
+          <SearchOutlinedIcon /> */}
+          {/* <p>smth is here</p>
+          <DropdownMenu>
+            <p>Hello</p>
+          </DropdownMenu> */}
         </div>
         <div className="items">
-          <div className="item">
-            <LanguageOutlinedIcon className="icon" />
-            English
-          </div>
           <div className="item">
             {/* <DarkModeOutlinedIcon
               className="icon"
