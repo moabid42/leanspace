@@ -1,21 +1,35 @@
 import { useLeanspaceAPI } from '@leanspace/js-client/dist/react';
-import { useQuery } from "react-query";
+import { useQuery, useMutation } from "react-query";
 
 
 // This hook is powered by useQuery
 // useQuery is a great alternative for managing state
 // here we are making a simple call for all the nodes in the library
 
-export const useNodes = (...params) => {
-    // useLeanspaceAPI is another hook from the JS libary
-    // if you ever need to check which variable name to use, such as 'nodes'
-    // check the docs - specifically the API references within the JS client docs
 
-    // also note the use of nodes.getAll instead of nodes.get
-    // nodes.get is more for finding one item, for example a satellite with certain parameters
-    const { nodes }  = useLeanspaceAPI();
+
+export const useNodes = (...params) => {
+    const { nodes } = useLeanspaceAPI();
     return useQuery(['nodes', { ...params }], () => nodes.getAll(...params), {
         keepPreviousData: true,
     });
 }
+export const useLuluby = (...params) => {
+    const { properties } = useLeanspaceAPI();
+    // return useQuery(['properties', { ...params }], () => properties.getAll(...params), {
+    return useQuery(['properties', { ...params }], () => properties.get("?query=TLE&page=0&size=100"), {
+        keepPreviousData: true,
+    });
+}
 
+export const useGetGorundStation = (...params) => {
+    const { nodes } = useLeanspaceAPI();
+    return useQuery(['GROUND_STATION', { ...params }], () => nodes.get("?kinds=GROUND_STATION&page=0&size=30"), {
+        keepPreviousData: true,
+    });
+}
+
+export const useCreateCommandMutation = () => {
+    const { commands } = useLeanspaceAPI();
+    return useMutation(commands.create.bind(commands));
+};
