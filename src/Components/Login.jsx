@@ -11,7 +11,8 @@ import Typography from "@material-ui/core/Typography";
 import LockOutlinedIcon from "@material-ui/icons/LockOutlined";
 import Alert from "@material-ui/lab/Alert";
 import React, { useContext, useState } from "react";
-import UserContext from "../Contexts/UserContext";
+import { UserContext } from "../Contexts/UserContext";
+import { useNavigate } from "react-router-dom";
 
 const useStyles = makeStyles((theme) => ({
     paper: {
@@ -35,8 +36,13 @@ const useStyles = makeStyles((theme) => ({
 
 const Login = () => {
     const classes = useStyles();
-    const { login } = useContext(UserContext);
+    const { login, isLoggedIn } = useContext(UserContext);
     const [hasLoginError, setLoginError] = useState(false);
+
+    // let history = useNavigate();
+    // const logout = () => {
+    //     history("/home");
+    // }
 
     const attemptLogin = async (event) => {
         event.preventDefault();
@@ -56,6 +62,7 @@ const Login = () => {
         } catch (err) {
             setLoginError(true);
         }
+
     };
 
     return (

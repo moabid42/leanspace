@@ -13,8 +13,12 @@ import { fetchTenantInformations } from "./API";
 
 import Login from "./Components/Login";
 import Main from "./Components/Main";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 
-import UserContext from "./Contexts/UserContext";
+import TLE from "./Components/tle";
+import Home from "./Components/Home";
+
+import { UserContext } from "./Contexts/UserContext";
 
 import { QueryClient, QueryClientProvider } from "react-query";
 import { LeanspaceProvider } from "@leanspace/js-client/dist/react";
@@ -107,7 +111,17 @@ function App() {
             <LeanspaceProvider
               clientOptions={{ getToken, baseURL: API_BASE_URL }}
             >
-              <Main />
+              <BrowserRouter>
+                <Routes>
+                  <Route path="/">
+                    <Route index element={<Home />} />
+                    <Route path="sattelites" element={<Main />} />
+                    {/* <Route path="home" element={<Home />} /> */}
+                    <Route path="tle" element={<TLE />} />
+                    <Route path="/login" element={<Login />} />
+                  </Route>
+                </Routes>
+              </BrowserRouter>
             </LeanspaceProvider>
           ) : (
             <Login />

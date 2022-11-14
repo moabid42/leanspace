@@ -48,7 +48,7 @@ export default function TLEprinter() {
     //   </TableContainer>
     // );
     const { data: properties } = useTLE();
-    console.log("properties", properties);
+    // console.log("properties", properties);
 
     return (
       <TableContainer component={Paper}>
