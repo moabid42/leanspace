@@ -1,0 +1,2187 @@
+[
+	{
+		"start": "2022-11-07T01:00:52.916Z",
+		"end": "2022-11-07T01:05:26.204Z",
+		"groundstationName": "Awarua"
+	},
+	{
+		"start": "2022-11-07T15:27:05.394Z",
+		"end": "2022-11-07T15:30:28.269Z",
+		"groundstationName": "Awarua"
+	},
+	{
+		"start": "2022-11-07T17:09:01.263Z",
+		"end": "2022-11-07T17:11:28.359Z",
+		"groundstationName": "Awarua"
+	},
+	{
+		"start": "2022-11-08T00:00:45.722Z",
+		"end": "2022-11-08T00:05:28.952Z",
+		"groundstationName": "Awarua"
+	},
+	{
+		"start": "2022-11-08T16:07:33.800Z",
+		"end": "2022-11-08T16:12:23.365Z",
+		"groundstationName": "Awarua"
+	},
+	{
+		"start": "2022-11-08T23:02:08.105Z",
+		"end": "2022-11-08T23:03:28.216Z",
+		"groundstationName": "Awarua"
+	},
+	{
+		"start": "2022-11-09T00:42:22.463Z",
+		"end": "2022-11-09T00:46:22.774Z",
+		"groundstationName": "Awarua"
+	},
+	{
+		"start": "2022-11-09T15:07:54.013Z",
+		"end": "2022-11-09T15:12:04.326Z",
+		"groundstationName": "Awarua"
+	},
+	{
+		"start": "2022-11-09T23:41:56.754Z",
+		"end": "2022-11-09T23:46:52.418Z",
+		"groundstationName": "Awarua"
+	},
+	{
+		"start": "2022-11-10T15:48:59.278Z",
+		"end": "2022-11-10T15:53:33.034Z",
+		"groundstationName": "Awarua"
+	},
+	{
+		"start": "2022-11-10T22:42:41.483Z",
+		"end": "2022-11-10T22:45:38.053Z",
+		"groundstationName": "Awarua"
+	},
+	{
+		"start": "2022-11-11T00:24:02.747Z",
+		"end": "2022-11-11T00:27:06.532Z",
+		"groundstationName": "Awarua"
+	},
+	{
+		"start": "2022-11-11T14:48:53.556Z",
+		"end": "2022-11-11T14:53:31.533Z",
+		"groundstationName": "Awarua"
+	},
+	{
+		"start": "2022-11-11T23:23:11.539Z",
+		"end": "2022-11-11T23:28:09.964Z",
+		"groundstationName": "Awarua"
+	},
+	{
+		"start": "2022-11-12T15:30:31.270Z",
+		"end": "2022-11-12T15:34:38.383Z",
+		"groundstationName": "Awarua"
+	},
+	{
+		"start": "2022-11-12T22:23:36.031Z",
+		"end": "2022-11-12T22:27:24.485Z",
+		"groundstationName": "Awarua"
+	},
+	{
+		"start": "2022-11-13T00:06:21.074Z",
+		"end": "2022-11-13T00:07:10.192Z",
+		"groundstationName": "Awarua"
+	},
+	{
+		"start": "2022-11-13T14:30:00.889Z",
+		"end": "2022-11-13T14:34:53.056Z",
+		"groundstationName": "Awarua"
+	},
+	{
+		"start": "2022-11-13T23:04:30.294Z",
+		"end": "2022-11-13T23:09:21.414Z",
+		"groundstationName": "Awarua"
+	},
+	{
+		"start": "2022-11-14T13:31:35.855Z",
+		"end": "2022-11-14T13:33:35.308Z",
+		"groundstationName": "Awarua"
+	},
+	{
+		"start": "2022-11-14T15:12:11.315Z",
+		"end": "2022-11-14T15:15:37.884Z",
+		"groundstationName": "Awarua"
+	},
+	{
+		"start": "2022-11-14T22:04:38.334Z",
+		"end": "2022-11-14T22:09:00.944Z",
+		"groundstationName": "Awarua"
+	},
+	{
+		"start": "2022-11-15T14:11:14.721Z",
+		"end": "2022-11-15T14:16:10.188Z",
+		"groundstationName": "Awarua"
+	},
+	{
+		"start": "2022-11-15T22:45:53.783Z",
+		"end": "2022-11-15T22:50:26.020Z",
+		"groundstationName": "Awarua"
+	},
+	{
+		"start": "2022-11-16T13:12:03.777Z",
+		"end": "2022-11-16T13:15:30.123Z",
+		"groundstationName": "Awarua"
+	},
+	{
+		"start": "2022-11-16T14:54:04.353Z",
+		"end": "2022-11-16T14:56:26.620Z",
+		"groundstationName": "Awarua"
+	},
+	{
+		"start": "2022-11-16T21:45:45.599Z",
+		"end": "2022-11-16T21:50:30.230Z",
+		"groundstationName": "Awarua"
+	},
+	{
+		"start": "2022-11-17T13:52:34.552Z",
+		"end": "2022-11-17T13:57:23.463Z",
+		"groundstationName": "Awarua"
+	},
+	{
+		"start": "2022-11-17T20:47:03.822Z",
+		"end": "2022-11-17T20:48:34.136Z",
+		"groundstationName": "Awarua"
+	},
+	{
+		"start": "2022-11-17T22:27:23.774Z",
+		"end": "2022-11-17T22:31:22.035Z",
+		"groundstationName": "Awarua"
+	},
+	{
+		"start": "2022-11-18T12:52:53.179Z",
+		"end": "2022-11-18T12:57:05.517Z",
+		"groundstationName": "Awarua"
+	},
+	{
+		"start": "2022-11-18T21:26:56.864Z",
+		"end": "2022-11-18T21:31:53.351Z",
+		"groundstationName": "Awarua"
+	},
+	{
+		"start": "2022-11-07T01:52:20.910Z",
+		"end": "2022-11-07T01:57:08.098Z",
+		"groundstationName": "Azores"
+	},
+	{
+		"start": "2022-11-07T16:13:17.535Z",
+		"end": "2022-11-07T16:17:57.423Z",
+		"groundstationName": "Azores"
+	},
+	{
+		"start": "2022-11-08T02:35:03.947Z",
+		"end": "2022-11-08T02:36:40.723Z",
+		"groundstationName": "Azores"
+	},
+	{
+		"start": "2022-11-08T16:55:23.675Z",
+		"end": "2022-11-08T16:58:34.770Z",
+		"groundstationName": "Azores"
+	},
+	{
+		"start": "2022-11-09T01:33:33.611Z",
+		"end": "2022-11-09T01:38:26.866Z",
+		"groundstationName": "Azores"
+	},
+	{
+		"start": "2022-11-09T15:54:24.144Z",
+		"end": "2022-11-09T15:59:19.425Z",
+		"groundstationName": "Azores"
+	},
+	{
+		"start": "2022-11-10T00:34:34.812Z",
+		"end": "2022-11-10T00:37:07.588Z",
+		"groundstationName": "Azores"
+	},
+	{
+		"start": "2022-11-10T16:37:48.428Z",
+		"end": "2022-11-10T16:38:50.007Z",
+		"groundstationName": "Azores"
+	},
+	{
+		"start": "2022-11-11T01:14:52.967Z",
+		"end": "2022-11-11T01:19:36.800Z",
+		"groundstationName": "Azores"
+	},
+	{
+		"start": "2022-11-11T15:35:39.763Z",
+		"end": "2022-11-11T15:40:34.565Z",
+		"groundstationName": "Azores"
+	},
+	{
+		"start": "2022-11-12T00:15:17.276Z",
+		"end": "2022-11-12T00:19:03.423Z",
+		"groundstationName": "Azores"
+	},
+	{
+		"start": "2022-11-12T14:36:40.539Z",
+		"end": "2022-11-12T14:39:44.335Z",
+		"groundstationName": "Azores"
+	},
+	{
+		"start": "2022-11-13T00:56:20.212Z",
+		"end": "2022-11-13T01:00:36.738Z",
+		"groundstationName": "Azores"
+	},
+	{
+		"start": "2022-11-13T15:17:04.145Z",
+		"end": "2022-11-13T15:21:43.158Z",
+		"groundstationName": "Azores"
+	},
+	{
+		"start": "2022-11-13T23:56:15.015Z",
+		"end": "2022-11-14T00:00:41.571Z",
+		"groundstationName": "Azores"
+	},
+	{
+		"start": "2022-11-14T14:17:20.829Z",
+		"end": "2022-11-14T14:21:28.634Z",
+		"groundstationName": "Azores"
+	},
+	{
+		"start": "2022-11-15T00:37:59.352Z",
+		"end": "2022-11-15T00:41:22.726Z",
+		"groundstationName": "Azores"
+	},
+	{
+		"start": "2022-11-15T14:58:38.448Z",
+		"end": "2022-11-15T15:02:44.139Z",
+		"groundstationName": "Azores"
+	},
+	{
+		"start": "2022-11-15T23:37:21.299Z",
+		"end": "2022-11-15T23:42:08.856Z",
+		"groundstationName": "Azores"
+	},
+	{
+		"start": "2022-11-16T13:58:17.351Z",
+		"end": "2022-11-16T14:02:58.748Z",
+		"groundstationName": "Azores"
+	},
+	{
+		"start": "2022-11-17T00:20:11.208Z",
+		"end": "2022-11-17T00:21:33.980Z",
+		"groundstationName": "Azores"
+	},
+	{
+		"start": "2022-11-17T14:40:26.803Z",
+		"end": "2022-11-17T14:43:33.451Z",
+		"groundstationName": "Azores"
+	},
+	{
+		"start": "2022-11-17T23:18:34.373Z",
+		"end": "2022-11-17T23:23:27.105Z",
+		"groundstationName": "Azores"
+	},
+	{
+		"start": "2022-11-18T13:39:24.531Z",
+		"end": "2022-11-18T13:44:20.305Z",
+		"groundstationName": "Azores"
+	},
+	{
+		"start": "2022-11-18T22:19:32.978Z",
+		"end": "2022-11-18T22:22:10.983Z",
+		"groundstationName": "Azores"
+	},
+	{
+		"start": "2022-11-07T20:05:27.239Z",
+		"end": "2022-11-07T20:10:06.597Z",
+		"groundstationName": "Bangalora"
+	},
+	{
+		"start": "2022-11-08T08:32:44.379Z",
+		"end": "2022-11-08T08:37:37.863Z",
+		"groundstationName": "Bangalora"
+	},
+	{
+		"start": "2022-11-08T19:06:46.892Z",
+		"end": "2022-11-08T19:08:49.193Z",
+		"groundstationName": "Bangalora"
+	},
+	{
+		"start": "2022-11-09T19:47:00.434Z",
+		"end": "2022-11-09T19:51:00.448Z",
+		"groundstationName": "Bangalora"
+	},
+	{
+		"start": "2022-11-10T08:14:03.087Z",
+		"end": "2022-11-10T08:18:48.009Z",
+		"groundstationName": "Bangalora"
+	},
+	{
+		"start": "2022-11-10T18:47:09.273Z",
+		"end": "2022-11-10T18:50:58.248Z",
+		"groundstationName": "Bangalora"
+	},
+	{
+		"start": "2022-11-11T07:15:31.294Z",
+		"end": "2022-11-11T07:17:31.022Z",
+		"groundstationName": "Bangalora"
+	},
+	{
+		"start": "2022-11-11T19:28:59.300Z",
+		"end": "2022-11-11T19:31:27.786Z",
+		"groundstationName": "Bangalora"
+	},
+	{
+		"start": "2022-11-12T07:55:36.515Z",
+		"end": "2022-11-12T07:59:44.591Z",
+		"groundstationName": "Bangalora"
+	},
+	{
+		"start": "2022-11-12T18:28:01.650Z",
+		"end": "2022-11-12T18:32:35.995Z",
+		"groundstationName": "Bangalora"
+	},
+	{
+		"start": "2022-11-13T06:55:48.550Z",
+		"end": "2022-11-13T06:59:39.929Z",
+		"groundstationName": "Bangalora"
+	},
+	{
+		"start": "2022-11-14T07:37:33.719Z",
+		"end": "2022-11-14T07:40:18.665Z",
+		"groundstationName": "Bangalora"
+	},
+	{
+		"start": "2022-11-14T18:09:08.831Z",
+		"end": "2022-11-14T18:13:57.774Z",
+		"groundstationName": "Bangalora"
+	},
+	{
+		"start": "2022-11-15T06:36:38.570Z",
+		"end": "2022-11-15T06:41:16.886Z",
+		"groundstationName": "Bangalora"
+	},
+	{
+		"start": "2022-11-16T17:50:28.475Z",
+		"end": "2022-11-16T17:55:06.037Z",
+		"groundstationName": "Bangalora"
+	},
+	{
+		"start": "2022-11-17T06:17:44.702Z",
+		"end": "2022-11-17T06:22:38.651Z",
+		"groundstationName": "Bangalora"
+	},
+	{
+		"start": "2022-11-17T16:51:42.657Z",
+		"end": "2022-11-17T16:53:54.390Z",
+		"groundstationName": "Bangalora"
+	},
+	{
+		"start": "2022-11-18T17:32:02.700Z",
+		"end": "2022-11-18T17:35:58.794Z",
+		"groundstationName": "Bangalora"
+	},
+	{
+		"start": "2022-11-07T07:09:38.265Z",
+		"end": "2022-11-07T07:14:21.759Z",
+		"groundstationName": "Cordoba"
+	},
+	{
+		"start": "2022-11-08T06:10:28.179Z",
+		"end": "2022-11-08T06:13:40.756Z",
+		"groundstationName": "Cordoba"
+	},
+	{
+		"start": "2022-11-08T16:32:39.782Z",
+		"end": "2022-11-08T16:37:35.378Z",
+		"groundstationName": "Cordoba"
+	},
+	{
+		"start": "2022-11-09T06:51:08.876Z",
+		"end": "2022-11-09T06:55:24.138Z",
+		"groundstationName": "Cordoba"
+	},
+	{
+		"start": "2022-11-09T15:33:58.981Z",
+		"end": "2022-11-09T15:36:01.766Z",
+		"groundstationName": "Cordoba"
+	},
+	{
+		"start": "2022-11-10T05:51:10.237Z",
+		"end": "2022-11-10T05:55:23.728Z",
+		"groundstationName": "Cordoba"
+	},
+	{
+		"start": "2022-11-10T16:14:00.337Z",
+		"end": "2022-11-10T16:18:43.430Z",
+		"groundstationName": "Cordoba"
+	},
+	{
+		"start": "2022-11-11T06:32:54.164Z",
+		"end": "2022-11-11T06:36:14.075Z",
+		"groundstationName": "Cordoba"
+	},
+	{
+		"start": "2022-11-11T15:14:29.257Z",
+		"end": "2022-11-11T15:18:08.724Z",
+		"groundstationName": "Cordoba"
+	},
+	{
+		"start": "2022-11-12T05:32:08.870Z",
+		"end": "2022-11-12T05:36:52.026Z",
+		"groundstationName": "Cordoba"
+	},
+	{
+		"start": "2022-11-12T15:55:30.820Z",
+		"end": "2022-11-12T15:59:39.603Z",
+		"groundstationName": "Cordoba"
+	},
+	{
+		"start": "2022-11-13T06:15:17.313Z",
+		"end": "2022-11-13T06:16:28.521Z",
+		"groundstationName": "Cordoba"
+	},
+	{
+		"start": "2022-11-13T14:55:22.772Z",
+		"end": "2022-11-13T14:59:50.103Z",
+		"groundstationName": "Cordoba"
+	},
+	{
+		"start": "2022-11-14T05:13:18.949Z",
+		"end": "2022-11-14T05:18:10.854Z",
+		"groundstationName": "Cordoba"
+	},
+	{
+		"start": "2022-11-14T15:37:17.783Z",
+		"end": "2022-11-14T15:40:17.393Z",
+		"groundstationName": "Cordoba"
+	},
+	{
+		"start": "2022-11-15T04:15:39.086Z",
+		"end": "2022-11-15T04:16:06.844Z",
+		"groundstationName": "Cordoba"
+	},
+	{
+		"start": "2022-11-15T14:36:27.278Z",
+		"end": "2022-11-15T14:41:18.268Z",
+		"groundstationName": "Cordoba"
+	},
+	{
+		"start": "2022-11-16T04:54:39.243Z",
+		"end": "2022-11-16T04:59:21.518Z",
+		"groundstationName": "Cordoba"
+	},
+	{
+		"start": "2022-11-17T03:55:26.000Z",
+		"end": "2022-11-17T03:58:43.226Z",
+		"groundstationName": "Cordoba"
+	},
+	{
+		"start": "2022-11-17T14:17:40.147Z",
+		"end": "2022-11-17T14:22:35.939Z",
+		"groundstationName": "Cordoba"
+	},
+	{
+		"start": "2022-11-18T04:36:10.553Z",
+		"end": "2022-11-18T04:40:23.321Z",
+		"groundstationName": "Cordoba"
+	},
+	{
+		"start": "2022-11-18T13:18:54.947Z",
+		"end": "2022-11-18T13:21:07.221Z",
+		"groundstationName": "Cordoba"
+	},
+	{
+		"start": "2022-11-07T03:14:02.786Z",
+		"end": "2022-11-07T03:18:50.253Z",
+		"groundstationName": "Fairbanks"
+	},
+	{
+		"start": "2022-11-07T04:55:25.009Z",
+		"end": "2022-11-07T05:00:23.455Z",
+		"groundstationName": "Fairbanks"
+	},
+	{
+		"start": "2022-11-07T06:37:02.863Z",
+		"end": "2022-11-07T06:42:02.612Z",
+		"groundstationName": "Fairbanks"
+	},
+	{
+		"start": "2022-11-07T08:18:42.895Z",
+		"end": "2022-11-07T08:22:56.861Z",
+		"groundstationName": "Fairbanks"
+	},
+	{
+		"start": "2022-11-08T02:14:32.794Z",
+		"end": "2022-11-08T02:18:31.363Z",
+		"groundstationName": "Fairbanks"
+	},
+	{
+		"start": "2022-11-08T03:55:15.207Z",
+		"end": "2022-11-08T04:00:15.657Z",
+		"groundstationName": "Fairbanks"
+	},
+	{
+		"start": "2022-11-08T05:36:54.353Z",
+		"end": "2022-11-08T05:41:51.994Z",
+		"groundstationName": "Fairbanks"
+	},
+	{
+		"start": "2022-11-08T07:18:27.696Z",
+		"end": "2022-11-08T07:23:19.208Z",
+		"groundstationName": "Fairbanks"
+	},
+	{
+		"start": "2022-11-09T01:16:29.693Z",
+		"end": "2022-11-09T01:17:04.480Z",
+		"groundstationName": "Fairbanks"
+	},
+	{
+		"start": "2022-11-09T02:55:15.143Z",
+		"end": "2022-11-09T03:00:08.024Z",
+		"groundstationName": "Fairbanks"
+	},
+	{
+		"start": "2022-11-09T04:36:43.194Z",
+		"end": "2022-11-09T04:41:40.982Z",
+		"groundstationName": "Fairbanks"
+	},
+	{
+		"start": "2022-11-09T06:18:19.876Z",
+		"end": "2022-11-09T06:23:19.589Z",
+		"groundstationName": "Fairbanks"
+	},
+	{
+		"start": "2022-11-09T08:00:05.042Z",
+		"end": "2022-11-09T08:04:00.426Z",
+		"groundstationName": "Fairbanks"
+	},
+	{
+		"start": "2022-11-10T01:55:36.737Z",
+		"end": "2022-11-10T01:59:53.254Z",
+		"groundstationName": "Fairbanks"
+	},
+	{
+		"start": "2022-11-10T03:36:32.329Z",
+		"end": "2022-11-10T03:41:32.587Z",
+		"groundstationName": "Fairbanks"
+	},
+	{
+		"start": "2022-11-10T05:18:11.965Z",
+		"end": "2022-11-10T05:23:10.069Z",
+		"groundstationName": "Fairbanks"
+	},
+	{
+		"start": "2022-11-10T06:59:45.585Z",
+		"end": "2022-11-10T07:04:31.344Z",
+		"groundstationName": "Fairbanks"
+	},
+	{
+		"start": "2022-11-11T00:56:48.885Z",
+		"end": "2022-11-11T00:59:06.056Z",
+		"groundstationName": "Fairbanks"
+	},
+	{
+		"start": "2022-11-11T02:36:28.852Z",
+		"end": "2022-11-11T02:41:25.387Z",
+		"groundstationName": "Fairbanks"
+	},
+	{
+		"start": "2022-11-11T04:18:01.378Z",
+		"end": "2022-11-11T04:22:58.698Z",
+		"groundstationName": "Fairbanks"
+	},
+	{
+		"start": "2022-11-11T05:59:36.862Z",
+		"end": "2022-11-11T06:04:35.940Z",
+		"groundstationName": "Fairbanks"
+	},
+	{
+		"start": "2022-11-11T07:41:29.652Z",
+		"end": "2022-11-11T07:45:00.311Z",
+		"groundstationName": "Fairbanks"
+	},
+	{
+		"start": "2022-11-12T01:36:43.458Z",
+		"end": "2022-11-12T01:41:13.534Z",
+		"groundstationName": "Fairbanks"
+	},
+	{
+		"start": "2022-11-12T03:17:49.912Z",
+		"end": "2022-11-12T03:22:49.609Z",
+		"groundstationName": "Fairbanks"
+	},
+	{
+		"start": "2022-11-12T04:59:29.383Z",
+		"end": "2022-11-12T05:04:28.038Z",
+		"groundstationName": "Fairbanks"
+	},
+	{
+		"start": "2022-11-12T06:41:04.089Z",
+		"end": "2022-11-12T06:45:41.856Z",
+		"groundstationName": "Fairbanks"
+	},
+	{
+		"start": "2022-11-13T00:37:36.431Z",
+		"end": "2022-11-13T00:40:40.623Z",
+		"groundstationName": "Fairbanks"
+	},
+	{
+		"start": "2022-11-13T02:17:43.695Z",
+		"end": "2022-11-13T02:22:42.477Z",
+		"groundstationName": "Fairbanks"
+	},
+	{
+		"start": "2022-11-13T03:59:19.484Z",
+		"end": "2022-11-13T04:04:16.580Z",
+		"groundstationName": "Fairbanks"
+	},
+	{
+		"start": "2022-11-13T05:40:53.907Z",
+		"end": "2022-11-13T05:45:51.504Z",
+		"groundstationName": "Fairbanks"
+	},
+	{
+		"start": "2022-11-13T07:22:58.249Z",
+		"end": "2022-11-13T07:25:54.930Z",
+		"groundstationName": "Fairbanks"
+	},
+	{
+		"start": "2022-11-14T01:17:52.437Z",
+		"end": "2022-11-14T01:22:32.675Z",
+		"groundstationName": "Fairbanks"
+	},
+	{
+		"start": "2022-11-14T02:59:07.820Z",
+		"end": "2022-11-14T03:04:06.774Z",
+		"groundstationName": "Fairbanks"
+	},
+	{
+		"start": "2022-11-14T04:40:46.623Z",
+		"end": "2022-11-14T04:45:45.794Z",
+		"groundstationName": "Fairbanks"
+	},
+	{
+		"start": "2022-11-14T06:22:23.456Z",
+		"end": "2022-11-14T06:26:50.431Z",
+		"groundstationName": "Fairbanks"
+	},
+	{
+		"start": "2022-11-15T00:18:32.151Z",
+		"end": "2022-11-15T00:22:08.331Z",
+		"groundstationName": "Fairbanks"
+	},
+	{
+		"start": "2022-11-15T01:58:59.483Z",
+		"end": "2022-11-15T02:03:59.414Z",
+		"groundstationName": "Fairbanks"
+	},
+	{
+		"start": "2022-11-15T03:40:37.454Z",
+		"end": "2022-11-15T03:45:34.587Z",
+		"groundstationName": "Fairbanks"
+	},
+	{
+		"start": "2022-11-15T05:22:11.112Z",
+		"end": "2022-11-15T05:27:06.095Z",
+		"groundstationName": "Fairbanks"
+	},
+	{
+		"start": "2022-11-15T07:04:34.818Z",
+		"end": "2022-11-15T07:06:40.267Z",
+		"groundstationName": "Fairbanks"
+	},
+	{
+		"start": "2022-11-16T00:59:03.298Z",
+		"end": "2022-11-16T01:03:50.993Z",
+		"groundstationName": "Fairbanks"
+	},
+	{
+		"start": "2022-11-16T02:40:25.923Z",
+		"end": "2022-11-16T02:45:24.115Z",
+		"groundstationName": "Fairbanks"
+	},
+	{
+		"start": "2022-11-16T04:22:03.723Z",
+		"end": "2022-11-16T04:27:03.209Z",
+		"groundstationName": "Fairbanks"
+	},
+	{
+		"start": "2022-11-16T06:03:44.028Z",
+		"end": "2022-11-16T06:07:56.677Z",
+		"groundstationName": "Fairbanks"
+	},
+	{
+		"start": "2022-11-16T23:59:32.764Z",
+		"end": "2022-11-17T00:03:32.393Z",
+		"groundstationName": "Fairbanks"
+	},
+	{
+		"start": "2022-11-17T01:40:16.037Z",
+		"end": "2022-11-17T01:45:16.306Z",
+		"groundstationName": "Fairbanks"
+	},
+	{
+		"start": "2022-11-17T03:21:55.250Z",
+		"end": "2022-11-17T03:26:52.661Z",
+		"groundstationName": "Fairbanks"
+	},
+	{
+		"start": "2022-11-17T05:03:28.598Z",
+		"end": "2022-11-17T05:08:19.515Z",
+		"groundstationName": "Fairbanks"
+	},
+	{
+		"start": "2022-11-17T23:01:23.634Z",
+		"end": "2022-11-17T23:02:11.243Z",
+		"groundstationName": "Fairbanks"
+	},
+	{
+		"start": "2022-11-18T00:40:15.745Z",
+		"end": "2022-11-18T00:45:08.727Z",
+		"groundstationName": "Fairbanks"
+	},
+	{
+		"start": "2022-11-18T02:21:44.114Z",
+		"end": "2022-11-18T02:26:41.643Z",
+		"groundstationName": "Fairbanks"
+	},
+	{
+		"start": "2022-11-18T04:03:20.734Z",
+		"end": "2022-11-18T04:08:20.143Z",
+		"groundstationName": "Fairbanks"
+	},
+	{
+		"start": "2022-11-18T05:45:06.305Z",
+		"end": "2022-11-18T05:49:00.031Z",
+		"groundstationName": "Fairbanks"
+	},
+	{
+		"start": "2022-11-18T23:40:36.892Z",
+		"end": "2022-11-18T23:44:54.167Z",
+		"groundstationName": "Fairbanks"
+	},
+	{
+		"start": "2022-11-07T00:32:47.321Z",
+		"end": "2022-11-07T00:37:33.179Z",
+		"groundstationName": "Hartebeesthoek"
+	},
+	{
+		"start": "2022-11-07T10:58:42.683Z",
+		"end": "2022-11-07T11:03:35.884Z",
+		"groundstationName": "Hartebeesthoek"
+	},
+	{
+		"start": "2022-11-08T10:00:10.229Z",
+		"end": "2022-11-08T10:01:59.328Z",
+		"groundstationName": "Hartebeesthoek"
+	},
+	{
+		"start": "2022-11-09T00:13:59.932Z",
+		"end": "2022-11-09T00:18:49.537Z",
+		"groundstationName": "Hartebeesthoek"
+	},
+	{
+		"start": "2022-11-09T10:40:06.179Z",
+		"end": "2022-11-09T10:44:40.208Z",
+		"groundstationName": "Hartebeesthoek"
+	},
+	{
+		"start": "2022-11-09T23:16:06.207Z",
+		"end": "2022-11-09T23:16:57.901Z",
+		"groundstationName": "Hartebeesthoek"
+	},
+	{
+		"start": "2022-11-10T09:40:32.988Z",
+		"end": "2022-11-10T09:44:12.127Z",
+		"groundstationName": "Hartebeesthoek"
+	},
+	{
+		"start": "2022-11-10T23:55:24.125Z",
+		"end": "2022-11-10T23:59:56.164Z",
+		"groundstationName": "Hartebeesthoek"
+	},
+	{
+		"start": "2022-11-11T10:21:42.644Z",
+		"end": "2022-11-11T10:25:29.865Z",
+		"groundstationName": "Hartebeesthoek"
+	},
+	{
+		"start": "2022-11-11T22:56:01.595Z",
+		"end": "2022-11-11T22:59:26.524Z",
+		"groundstationName": "Hartebeesthoek"
+	},
+	{
+		"start": "2022-11-12T09:21:24.613Z",
+		"end": "2022-11-12T09:25:53.925Z",
+		"groundstationName": "Hartebeesthoek"
+	},
+	{
+		"start": "2022-11-12T23:37:02.160Z",
+		"end": "2022-11-12T23:40:50.934Z",
+		"groundstationName": "Hartebeesthoek"
+	},
+	{
+		"start": "2022-11-13T10:03:46.832Z",
+		"end": "2022-11-13T10:05:50.174Z",
+		"groundstationName": "Hartebeesthoek"
+	},
+	{
+		"start": "2022-11-13T22:36:46.164Z",
+		"end": "2022-11-13T22:41:07.567Z",
+		"groundstationName": "Hartebeesthoek"
+	},
+	{
+		"start": "2022-11-14T09:02:29.002Z",
+		"end": "2022-11-14T09:07:20.949Z",
+		"groundstationName": "Hartebeesthoek"
+	},
+	{
+		"start": "2022-11-14T23:19:04.956Z",
+		"end": "2022-11-14T23:21:23.042Z",
+		"groundstationName": "Hartebeesthoek"
+	},
+	{
+		"start": "2022-11-15T22:17:47.284Z",
+		"end": "2022-11-15T22:22:33.751Z",
+		"groundstationName": "Hartebeesthoek"
+	},
+	{
+		"start": "2022-11-16T08:43:43.185Z",
+		"end": "2022-11-16T08:48:36.290Z",
+		"groundstationName": "Hartebeesthoek"
+	},
+	{
+		"start": "2022-11-17T07:45:05.143Z",
+		"end": "2022-11-17T07:47:05.771Z",
+		"groundstationName": "Hartebeesthoek"
+	},
+	{
+		"start": "2022-11-17T21:59:00.553Z",
+		"end": "2022-11-17T22:03:49.550Z",
+		"groundstationName": "Hartebeesthoek"
+	},
+	{
+		"start": "2022-11-18T08:25:07.312Z",
+		"end": "2022-11-18T08:29:39.893Z",
+		"groundstationName": "Hartebeesthoek"
+	},
+	{
+		"start": "2022-11-18T21:00:56.016Z",
+		"end": "2022-11-18T21:02:08.333Z",
+		"groundstationName": "Hartebeesthoek"
+	},
+	{
+		"start": "2022-11-07T11:51:27.291Z",
+		"end": "2022-11-07T11:54:26.928Z",
+		"groundstationName": "Hawaii"
+	},
+	{
+		"start": "2022-11-08T00:21:29.483Z",
+		"end": "2022-11-08T00:26:20.999Z",
+		"groundstationName": "Hawaii"
+	},
+	{
+		"start": "2022-11-08T10:50:46.707Z",
+		"end": "2022-11-08T10:55:17.125Z",
+		"groundstationName": "Hawaii"
+	},
+	{
+		"start": "2022-11-10T00:02:46.285Z",
+		"end": "2022-11-10T00:07:33.425Z",
+		"groundstationName": "Hawaii"
+	},
+	{
+		"start": "2022-11-10T10:31:53.057Z",
+		"end": "2022-11-10T10:36:40.700Z",
+		"groundstationName": "Hawaii"
+	},
+	{
+		"start": "2022-11-10T23:04:20.267Z",
+		"end": "2022-11-10T23:06:11.834Z",
+		"groundstationName": "Hawaii"
+	},
+	{
+		"start": "2022-11-11T23:44:16.359Z",
+		"end": "2022-11-11T23:48:34.174Z",
+		"groundstationName": "Hawaii"
+	},
+	{
+		"start": "2022-11-12T10:13:10.639Z",
+		"end": "2022-11-12T10:17:51.512Z",
+		"groundstationName": "Hawaii"
+	},
+	{
+		"start": "2022-11-12T22:44:35.877Z",
+		"end": "2022-11-12T22:48:21.416Z",
+		"groundstationName": "Hawaii"
+	},
+	{
+		"start": "2022-11-13T09:14:26.241Z",
+		"end": "2022-11-13T09:16:33.824Z",
+		"groundstationName": "Hawaii"
+	},
+	{
+		"start": "2022-11-13T23:26:05.169Z",
+		"end": "2022-11-13T23:29:17.899Z",
+		"groundstationName": "Hawaii"
+	},
+	{
+		"start": "2022-11-14T09:54:40.719Z",
+		"end": "2022-11-14T09:58:48.418Z",
+		"groundstationName": "Hawaii"
+	},
+	{
+		"start": "2022-11-14T22:25:24.907Z",
+		"end": "2022-11-14T22:29:58.863Z",
+		"groundstationName": "Hawaii"
+	},
+	{
+		"start": "2022-11-15T08:54:52.988Z",
+		"end": "2022-11-15T08:58:40.308Z",
+		"groundstationName": "Hawaii"
+	},
+	{
+		"start": "2022-11-16T09:36:31.039Z",
+		"end": "2022-11-16T09:39:23.753Z",
+		"groundstationName": "Hawaii"
+	},
+	{
+		"start": "2022-11-16T22:06:29.746Z",
+		"end": "2022-11-16T22:11:21.879Z",
+		"groundstationName": "Hawaii"
+	},
+	{
+		"start": "2022-11-17T08:35:46.515Z",
+		"end": "2022-11-17T08:40:18.233Z",
+		"groundstationName": "Hawaii"
+	},
+	{
+		"start": "2022-11-18T21:47:47.294Z",
+		"end": "2022-11-18T21:52:33.664Z",
+		"groundstationName": "Hawaii"
+	},
+	{
+		"start": "2022-11-07T08:28:22.643Z",
+		"end": "2022-11-07T08:33:10.413Z",
+		"groundstationName": "LA"
+	},
+	{
+		"start": "2022-11-07T22:47:53.414Z",
+		"end": "2022-11-07T22:52:30.350Z",
+		"groundstationName": "LA"
+	},
+	{
+		"start": "2022-11-08T07:29:03.473Z",
+		"end": "2022-11-08T07:32:19.214Z",
+		"groundstationName": "LA"
+	},
+	{
+		"start": "2022-11-08T21:48:12.816Z",
+		"end": "2022-11-08T21:52:14.401Z",
+		"groundstationName": "LA"
+	},
+	{
+		"start": "2022-11-09T08:09:48.110Z",
+		"end": "2022-11-09T08:14:12.524Z",
+		"groundstationName": "LA"
+	},
+	{
+		"start": "2022-11-09T22:29:29.491Z",
+		"end": "2022-11-09T22:33:29.108Z",
+		"groundstationName": "LA"
+	},
+	{
+		"start": "2022-11-10T07:09:53.680Z",
+		"end": "2022-11-10T07:14:05.211Z",
+		"groundstationName": "LA"
+	},
+	{
+		"start": "2022-11-10T21:29:07.215Z",
+		"end": "2022-11-10T21:33:46.396Z",
+		"groundstationName": "LA"
+	},
+	{
+		"start": "2022-11-11T07:51:25.208Z",
+		"end": "2022-11-11T07:55:01.009Z",
+		"groundstationName": "LA"
+	},
+	{
+		"start": "2022-11-11T22:11:22.595Z",
+		"end": "2022-11-11T22:14:13.203Z",
+		"groundstationName": "LA"
+	},
+	{
+		"start": "2022-11-12T06:50:55.758Z",
+		"end": "2022-11-12T06:55:37.004Z",
+		"groundstationName": "LA"
+	},
+	{
+		"start": "2022-11-12T21:10:13.410Z",
+		"end": "2022-11-12T21:15:08.632Z",
+		"groundstationName": "LA"
+	},
+	{
+		"start": "2022-11-13T07:33:29.246Z",
+		"end": "2022-11-13T07:35:20.599Z",
+		"groundstationName": "LA"
+	},
+	{
+		"start": "2022-11-14T06:32:06.023Z",
+		"end": "2022-11-14T06:36:58.397Z",
+		"groundstationName": "LA"
+	},
+	{
+		"start": "2022-11-14T20:51:29.351Z",
+		"end": "2022-11-14T20:56:23.217Z",
+		"groundstationName": "LA"
+	},
+	{
+		"start": "2022-11-15T05:33:42.262Z",
+		"end": "2022-11-15T05:35:03.372Z",
+		"groundstationName": "LA"
+	},
+	{
+		"start": "2022-11-15T19:52:34.927Z",
+		"end": "2022-11-15T19:55:28.757Z",
+		"groundstationName": "LA"
+	},
+	{
+		"start": "2022-11-16T06:13:23.702Z",
+		"end": "2022-11-16T06:18:10.230Z",
+		"groundstationName": "LA"
+	},
+	{
+		"start": "2022-11-16T20:32:54.899Z",
+		"end": "2022-11-16T20:37:30.367Z",
+		"groundstationName": "LA"
+	},
+	{
+		"start": "2022-11-17T05:14:02.298Z",
+		"end": "2022-11-17T05:17:21.802Z",
+		"groundstationName": "LA"
+	},
+	{
+		"start": "2022-11-17T19:33:11.756Z",
+		"end": "2022-11-17T19:37:16.473Z",
+		"groundstationName": "LA"
+	},
+	{
+		"start": "2022-11-18T05:54:49.726Z",
+		"end": "2022-11-18T05:59:11.657Z",
+		"groundstationName": "LA"
+	},
+	{
+		"start": "2022-11-18T20:14:31.744Z",
+		"end": "2022-11-18T20:18:28.497Z",
+		"groundstationName": "LA"
+	},
+	{
+		"start": "2022-11-07T09:22:07.834Z",
+		"end": "2022-11-07T09:26:45.261Z",
+		"groundstationName": "Mauritius"
+	},
+	{
+		"start": "2022-11-07T21:53:36.118Z",
+		"end": "2022-11-07T21:57:37.767Z",
+		"groundstationName": "Mauritius"
+	},
+	{
+		"start": "2022-11-08T08:22:50.424Z",
+		"end": "2022-11-08T08:26:02.872Z",
+		"groundstationName": "Mauritius"
+	},
+	{
+		"start": "2022-11-08T22:35:31.565Z",
+		"end": "2022-11-08T22:38:10.247Z",
+		"groundstationName": "Mauritius"
+	},
+	{
+		"start": "2022-11-09T09:03:43.989Z",
+		"end": "2022-11-09T09:07:35.585Z",
+		"groundstationName": "Mauritius"
+	},
+	{
+		"start": "2022-11-09T21:34:30.510Z",
+		"end": "2022-11-09T21:39:10.071Z",
+		"groundstationName": "Mauritius"
+	},
+	{
+		"start": "2022-11-10T08:03:33.735Z",
+		"end": "2022-11-10T08:07:52.211Z",
+		"groundstationName": "Mauritius"
+	},
+	{
+		"start": "2022-11-11T08:45:48.795Z",
+		"end": "2022-11-11T08:47:55.951Z",
+		"groundstationName": "Mauritius"
+	},
+	{
+		"start": "2022-11-11T21:15:39.210Z",
+		"end": "2022-11-11T21:20:29.490Z",
+		"groundstationName": "Mauritius"
+	},
+	{
+		"start": "2022-11-12T07:44:34.069Z",
+		"end": "2022-11-12T07:49:22.783Z",
+		"groundstationName": "Mauritius"
+	},
+	{
+		"start": "2022-11-13T20:57:00.456Z",
+		"end": "2022-11-13T21:01:37.884Z",
+		"groundstationName": "Mauritius"
+	},
+	{
+		"start": "2022-11-14T07:25:45.978Z",
+		"end": "2022-11-14T07:30:40.175Z",
+		"groundstationName": "Mauritius"
+	},
+	{
+		"start": "2022-11-14T19:58:02.453Z",
+		"end": "2022-11-14T20:00:46.429Z",
+		"groundstationName": "Mauritius"
+	},
+	{
+		"start": "2022-11-15T20:38:36.044Z",
+		"end": "2022-11-15T20:42:33.589Z",
+		"groundstationName": "Mauritius"
+	},
+	{
+		"start": "2022-11-16T07:07:08.944Z",
+		"end": "2022-11-16T07:11:45.009Z",
+		"groundstationName": "Mauritius"
+	},
+	{
+		"start": "2022-11-16T19:38:34.894Z",
+		"end": "2022-11-16T19:42:39.431Z",
+		"groundstationName": "Mauritius"
+	},
+	{
+		"start": "2022-11-17T06:07:48.050Z",
+		"end": "2022-11-17T06:11:06.464Z",
+		"groundstationName": "Mauritius"
+	},
+	{
+		"start": "2022-11-17T20:20:35.930Z",
+		"end": "2022-11-17T20:23:06.760Z",
+		"groundstationName": "Mauritius"
+	},
+	{
+		"start": "2022-11-18T06:48:46.108Z",
+		"end": "2022-11-18T06:52:34.258Z",
+		"groundstationName": "Mauritius"
+	},
+	{
+		"start": "2022-11-18T19:19:30.228Z",
+		"end": "2022-11-18T19:24:10.861Z",
+		"groundstationName": "Mauritius"
+	},
+	{
+		"start": "2022-11-07T12:56:15.792Z",
+		"end": "2022-11-07T13:00:24.895Z",
+		"groundstationName": "Nemea"
+	},
+	{
+		"start": "2022-11-07T23:16:42.704Z",
+		"end": "2022-11-07T23:19:37.883Z",
+		"groundstationName": "Nemea"
+	},
+	{
+		"start": "2022-11-08T13:37:33.236Z",
+		"end": "2022-11-08T13:41:40.990Z",
+		"groundstationName": "Nemea"
+	},
+	{
+		"start": "2022-11-08T22:15:49.818Z",
+		"end": "2022-11-08T22:20:41.826Z",
+		"groundstationName": "Nemea"
+	},
+	{
+		"start": "2022-11-09T12:37:12.817Z",
+		"end": "2022-11-09T12:41:54.562Z",
+		"groundstationName": "Nemea"
+	},
+	{
+		"start": "2022-11-09T21:17:19.696Z",
+		"end": "2022-11-09T21:18:48.420Z",
+		"groundstationName": "Nemea"
+	},
+	{
+		"start": "2022-11-10T13:19:20.135Z",
+		"end": "2022-11-10T13:22:31.850Z",
+		"groundstationName": "Nemea"
+	},
+	{
+		"start": "2022-11-10T21:57:05.551Z",
+		"end": "2022-11-10T22:01:56.659Z",
+		"groundstationName": "Nemea"
+	},
+	{
+		"start": "2022-11-11T12:18:20.200Z",
+		"end": "2022-11-11T12:23:15.993Z",
+		"groundstationName": "Nemea"
+	},
+	{
+		"start": "2022-11-11T20:57:45.593Z",
+		"end": "2022-11-11T21:01:02.276Z",
+		"groundstationName": "Nemea"
+	},
+	{
+		"start": "2022-11-12T11:20:43.221Z",
+		"end": "2022-11-12T11:21:11.002Z",
+		"groundstationName": "Nemea"
+	},
+	{
+		"start": "2022-11-12T13:01:41.541Z",
+		"end": "2022-11-12T13:02:50.678Z",
+		"groundstationName": "Nemea"
+	},
+	{
+		"start": "2022-11-12T21:38:28.047Z",
+		"end": "2022-11-12T21:43:02.563Z",
+		"groundstationName": "Nemea"
+	},
+	{
+		"start": "2022-11-13T11:59:36.315Z",
+		"end": "2022-11-13T12:04:30.857Z",
+		"groundstationName": "Nemea"
+	},
+	{
+		"start": "2022-11-13T20:38:37.975Z",
+		"end": "2022-11-13T20:42:47.193Z",
+		"groundstationName": "Nemea"
+	},
+	{
+		"start": "2022-11-14T11:00:32.219Z",
+		"end": "2022-11-14T11:03:44.736Z",
+		"groundstationName": "Nemea"
+	},
+	{
+		"start": "2022-11-14T21:19:59.350Z",
+		"end": "2022-11-14T21:23:57.569Z",
+		"groundstationName": "Nemea"
+	},
+	{
+		"start": "2022-11-15T11:41:00.967Z",
+		"end": "2022-11-15T11:45:39.410Z",
+		"groundstationName": "Nemea"
+	},
+	{
+		"start": "2022-11-15T20:19:40.622Z",
+		"end": "2022-11-15T20:24:19.466Z",
+		"groundstationName": "Nemea"
+	},
+	{
+		"start": "2022-11-16T10:41:14.961Z",
+		"end": "2022-11-16T10:45:26.755Z",
+		"groundstationName": "Nemea"
+	},
+	{
+		"start": "2022-11-16T21:01:46.106Z",
+		"end": "2022-11-16T21:04:35.064Z",
+		"groundstationName": "Nemea"
+	},
+	{
+		"start": "2022-11-17T11:22:35.290Z",
+		"end": "2022-11-17T11:26:40.615Z",
+		"groundstationName": "Nemea"
+	},
+	{
+		"start": "2022-11-17T20:00:50.388Z",
+		"end": "2022-11-17T20:05:42.343Z",
+		"groundstationName": "Nemea"
+	},
+	{
+		"start": "2022-11-18T10:22:12.698Z",
+		"end": "2022-11-18T10:26:55.836Z",
+		"groundstationName": "Nemea"
+	},
+	{
+		"start": "2022-11-18T19:02:15.728Z",
+		"end": "2022-11-18T19:03:54.042Z",
+		"groundstationName": "Nemea"
+	},
+	{
+		"start": "2022-11-07T00:02:00.020Z",
+		"end": "2022-11-07T00:06:59.246Z",
+		"groundstationName": "Nuuk"
+	},
+	{
+		"start": "2022-11-07T01:43:35.880Z",
+		"end": "2022-11-07T01:48:07.699Z",
+		"groundstationName": "Nuuk"
+	},
+	{
+		"start": "2022-11-07T19:39:53.181Z",
+		"end": "2022-11-07T19:43:18.382Z",
+		"groundstationName": "Nuuk"
+	},
+	{
+		"start": "2022-11-07T21:20:13.344Z",
+		"end": "2022-11-07T21:25:13.113Z",
+		"groundstationName": "Nuuk"
+	},
+	{
+		"start": "2022-11-07T23:01:50.575Z",
+		"end": "2022-11-07T23:06:47.884Z",
+		"groundstationName": "Nuuk"
+	},
+	{
+		"start": "2022-11-08T00:43:24.479Z",
+		"end": "2022-11-08T00:48:20.889Z",
+		"groundstationName": "Nuuk"
+	},
+	{
+		"start": "2022-11-08T02:25:39.123Z",
+		"end": "2022-11-08T02:28:08.031Z",
+		"groundstationName": "Nuuk"
+	},
+	{
+		"start": "2022-11-08T20:20:18.967Z",
+		"end": "2022-11-08T20:25:04.215Z",
+		"groundstationName": "Nuuk"
+	},
+	{
+		"start": "2022-11-08T22:01:38.962Z",
+		"end": "2022-11-08T22:06:37.645Z",
+		"groundstationName": "Nuuk"
+	},
+	{
+		"start": "2022-11-08T23:43:17.172Z",
+		"end": "2022-11-08T23:48:16.818Z",
+		"groundstationName": "Nuuk"
+	},
+	{
+		"start": "2022-11-09T01:24:55.929Z",
+		"end": "2022-11-09T01:29:14.916Z",
+		"groundstationName": "Nuuk"
+	},
+	{
+		"start": "2022-11-09T19:20:52.123Z",
+		"end": "2022-11-09T19:24:43.637Z",
+		"groundstationName": "Nuuk"
+	},
+	{
+		"start": "2022-11-09T21:01:29.618Z",
+		"end": "2022-11-09T21:06:30.017Z",
+		"groundstationName": "Nuuk"
+	},
+	{
+		"start": "2022-11-09T22:43:08.439Z",
+		"end": "2022-11-09T22:48:05.949Z",
+		"groundstationName": "Nuuk"
+	},
+	{
+		"start": "2022-11-10T00:24:41.837Z",
+		"end": "2022-11-10T00:29:34.798Z",
+		"groundstationName": "Nuuk"
+	},
+	{
+		"start": "2022-11-10T02:07:28.134Z",
+		"end": "2022-11-10T02:08:40.105Z",
+		"groundstationName": "Nuuk"
+	},
+	{
+		"start": "2022-11-10T20:01:30.829Z",
+		"end": "2022-11-10T20:06:22.157Z",
+		"groundstationName": "Nuuk"
+	},
+	{
+		"start": "2022-11-10T21:42:57.129Z",
+		"end": "2022-11-10T21:47:55.107Z",
+		"groundstationName": "Nuuk"
+	},
+	{
+		"start": "2022-11-10T23:24:34.209Z",
+		"end": "2022-11-10T23:29:33.963Z",
+		"groundstationName": "Nuuk"
+	},
+	{
+		"start": "2022-11-11T01:06:17.463Z",
+		"end": "2022-11-11T01:10:19.484Z",
+		"groundstationName": "Nuuk"
+	},
+	{
+		"start": "2022-11-11T19:01:55.006Z",
+		"end": "2022-11-11T19:06:06.189Z",
+		"groundstationName": "Nuuk"
+	},
+	{
+		"start": "2022-11-11T20:42:46.557Z",
+		"end": "2022-11-11T20:47:46.927Z",
+		"groundstationName": "Nuuk"
+	},
+	{
+		"start": "2022-11-11T22:24:26.116Z",
+		"end": "2022-11-11T22:29:24.033Z",
+		"groundstationName": "Nuuk"
+	},
+	{
+		"start": "2022-11-12T00:05:59.568Z",
+		"end": "2022-11-12T00:10:47.404Z",
+		"groundstationName": "Nuuk"
+	},
+	{
+		"start": "2022-11-12T18:03:16.165Z",
+		"end": "2022-11-12T18:05:11.629Z",
+		"groundstationName": "Nuuk"
+	},
+	{
+		"start": "2022-11-12T19:42:44.121Z",
+		"end": "2022-11-12T19:47:39.635Z",
+		"groundstationName": "Nuuk"
+	},
+	{
+		"start": "2022-11-12T21:24:15.323Z",
+		"end": "2022-11-12T21:29:12.759Z",
+		"groundstationName": "Nuuk"
+	},
+	{
+		"start": "2022-11-12T23:05:51.197Z",
+		"end": "2022-11-12T23:10:50.534Z",
+		"groundstationName": "Nuuk"
+	},
+	{
+		"start": "2022-11-13T00:47:41.148Z",
+		"end": "2022-11-13T00:51:20.700Z",
+		"groundstationName": "Nuuk"
+	},
+	{
+		"start": "2022-11-13T18:43:00.883Z",
+		"end": "2022-11-13T18:47:26.937Z",
+		"groundstationName": "Nuuk"
+	},
+	{
+		"start": "2022-11-13T20:24:04.005Z",
+		"end": "2022-11-13T20:29:03.909Z",
+		"groundstationName": "Nuuk"
+	},
+	{
+		"start": "2022-11-13T22:05:43.597Z",
+		"end": "2022-11-13T22:10:42.044Z",
+		"groundstationName": "Nuuk"
+	},
+	{
+		"start": "2022-11-13T23:47:17.846Z",
+		"end": "2022-11-13T23:51:58.478Z",
+		"groundstationName": "Nuuk"
+	},
+	{
+		"start": "2022-11-14T17:43:59.232Z",
+		"end": "2022-11-14T17:46:50.233Z",
+		"groundstationName": "Nuuk"
+	},
+	{
+		"start": "2022-11-14T19:23:58.614Z",
+		"end": "2022-11-14T19:28:56.795Z",
+		"groundstationName": "Nuuk"
+	},
+	{
+		"start": "2022-11-14T21:05:33.463Z",
+		"end": "2022-11-14T21:10:30.587Z",
+		"groundstationName": "Nuuk"
+	},
+	{
+		"start": "2022-11-14T22:47:08.212Z",
+		"end": "2022-11-14T22:52:06.374Z",
+		"groundstationName": "Nuuk"
+	},
+	{
+		"start": "2022-11-15T00:29:08.187Z",
+		"end": "2022-11-15T00:32:17.294Z",
+		"groundstationName": "Nuuk"
+	},
+	{
+		"start": "2022-11-15T18:24:09.169Z",
+		"end": "2022-11-15T18:28:46.408Z",
+		"groundstationName": "Nuuk"
+	},
+	{
+		"start": "2022-11-15T20:05:21.823Z",
+		"end": "2022-11-15T20:10:21.020Z",
+		"groundstationName": "Nuuk"
+	},
+	{
+		"start": "2022-11-15T21:47:00.895Z",
+		"end": "2022-11-15T21:51:59.881Z",
+		"groundstationName": "Nuuk"
+	},
+	{
+		"start": "2022-11-15T23:28:36.899Z",
+		"end": "2022-11-15T23:33:07.724Z",
+		"groundstationName": "Nuuk"
+	},
+	{
+		"start": "2022-11-16T17:24:52.816Z",
+		"end": "2022-11-16T17:28:19.653Z",
+		"groundstationName": "Nuuk"
+	},
+	{
+		"start": "2022-11-16T19:05:14.114Z",
+		"end": "2022-11-16T19:10:13.771Z",
+		"groundstationName": "Nuuk"
+	},
+	{
+		"start": "2022-11-16T20:46:51.484Z",
+		"end": "2022-11-16T20:51:48.556Z",
+		"groundstationName": "Nuuk"
+	},
+	{
+		"start": "2022-11-16T22:28:25.353Z",
+		"end": "2022-11-16T22:33:21.301Z",
+		"groundstationName": "Nuuk"
+	},
+	{
+		"start": "2022-11-17T00:10:41.338Z",
+		"end": "2022-11-17T00:13:06.482Z",
+		"groundstationName": "Nuuk"
+	},
+	{
+		"start": "2022-11-17T18:05:19.450Z",
+		"end": "2022-11-17T18:10:04.964Z",
+		"groundstationName": "Nuuk"
+	},
+	{
+		"start": "2022-11-17T19:46:39.875Z",
+		"end": "2022-11-17T19:51:38.299Z",
+		"groundstationName": "Nuuk"
+	},
+	{
+		"start": "2022-11-17T21:28:18.035Z",
+		"end": "2022-11-17T21:33:17.421Z",
+		"groundstationName": "Nuuk"
+	},
+	{
+		"start": "2022-11-17T23:09:57.029Z",
+		"end": "2022-11-17T23:14:14.784Z",
+		"groundstationName": "Nuuk"
+	},
+	{
+		"start": "2022-11-18T17:05:52.028Z",
+		"end": "2022-11-18T17:09:44.709Z",
+		"groundstationName": "Nuuk"
+	},
+	{
+		"start": "2022-11-18T18:46:30.436Z",
+		"end": "2022-11-18T18:51:30.662Z",
+		"groundstationName": "Nuuk"
+	},
+	{
+		"start": "2022-11-18T20:28:09.340Z",
+		"end": "2022-11-18T20:33:06.613Z",
+		"groundstationName": "Nuuk"
+	},
+	{
+		"start": "2022-11-18T22:09:42.731Z",
+		"end": "2022-11-18T22:14:35.127Z",
+		"groundstationName": "Nuuk"
+	},
+	{
+		"start": "2022-11-18T23:52:33.079Z",
+		"end": "2022-11-18T23:53:35.741Z",
+		"groundstationName": "Nuuk"
+	},
+	{
+		"start": "2022-11-07T06:57:50.013Z",
+		"end": "2022-11-07T07:02:04.540Z",
+		"groundstationName": "Panama"
+	},
+	{
+		"start": "2022-11-07T19:23:07.210Z",
+		"end": "2022-11-07T19:27:22.911Z",
+		"groundstationName": "Panama"
+	},
+	{
+		"start": "2022-11-08T05:58:18.762Z",
+		"end": "2022-11-08T06:01:42.371Z",
+		"groundstationName": "Panama"
+	},
+	{
+		"start": "2022-11-08T18:23:31.346Z",
+		"end": "2022-11-08T18:27:07.206Z",
+		"groundstationName": "Panama"
+	},
+	{
+		"start": "2022-11-09T06:39:40.149Z",
+		"end": "2022-11-09T06:42:41.314Z",
+		"groundstationName": "Panama"
+	},
+	{
+		"start": "2022-11-09T19:05:00.063Z",
+		"end": "2022-11-09T19:08:00.246Z",
+		"groundstationName": "Panama"
+	},
+	{
+		"start": "2022-11-10T05:39:03.492Z",
+		"end": "2022-11-10T05:43:27.380Z",
+		"groundstationName": "Panama"
+	},
+	{
+		"start": "2022-11-10T18:04:16.859Z",
+		"end": "2022-11-10T18:08:48.882Z",
+		"groundstationName": "Panama"
+	},
+	{
+		"start": "2022-11-12T05:20:06.109Z",
+		"end": "2022-11-12T05:24:53.602Z",
+		"groundstationName": "Panama"
+	},
+	{
+		"start": "2022-11-12T17:45:20.191Z",
+		"end": "2022-11-12T17:50:13.333Z",
+		"groundstationName": "Panama"
+	},
+	{
+		"start": "2022-11-14T05:01:22.006Z",
+		"end": "2022-11-14T05:06:05.768Z",
+		"groundstationName": "Panama"
+	},
+	{
+		"start": "2022-11-14T17:26:37.305Z",
+		"end": "2022-11-14T17:31:24.693Z",
+		"groundstationName": "Panama"
+	},
+	{
+		"start": "2022-11-15T04:03:31.866Z",
+		"end": "2022-11-15T04:03:59.379Z",
+		"groundstationName": "Panama"
+	},
+	{
+		"start": "2022-11-15T16:28:25.894Z",
+		"end": "2022-11-15T16:29:46.911Z",
+		"groundstationName": "Panama"
+	},
+	{
+		"start": "2022-11-16T04:42:51.955Z",
+		"end": "2022-11-16T04:47:03.231Z",
+		"groundstationName": "Panama"
+	},
+	{
+		"start": "2022-11-16T17:08:09.129Z",
+		"end": "2022-11-16T17:12:22.174Z",
+		"groundstationName": "Panama"
+	},
+	{
+		"start": "2022-11-17T03:43:16.912Z",
+		"end": "2022-11-17T03:46:45.047Z",
+		"groundstationName": "Panama"
+	},
+	{
+		"start": "2022-11-17T16:08:29.321Z",
+		"end": "2022-11-17T16:12:10.234Z",
+		"groundstationName": "Panama"
+	},
+	{
+		"start": "2022-11-18T04:24:44.021Z",
+		"end": "2022-11-18T04:27:38.032Z",
+		"groundstationName": "Panama"
+	},
+	{
+		"start": "2022-11-18T16:50:03.887Z",
+		"end": "2022-11-18T16:52:57.667Z",
+		"groundstationName": "Panama"
+	},
+	{
+		"start": "2022-11-07T09:46:09.976Z",
+		"end": "2022-11-07T09:49:48.729Z",
+		"groundstationName": "Russian"
+	},
+	{
+		"start": "2022-11-07T11:26:50.732Z",
+		"end": "2022-11-07T11:31:42.530Z",
+		"groundstationName": "Russian"
+	},
+	{
+		"start": "2022-11-07T13:09:27.612Z",
+		"end": "2022-11-07T13:13:10.018Z",
+		"groundstationName": "Russian"
+	},
+	{
+		"start": "2022-11-07T14:51:22.471Z",
+		"end": "2022-11-07T14:55:39.432Z",
+		"groundstationName": "Russian"
+	},
+	{
+		"start": "2022-11-07T16:32:46.412Z",
+		"end": "2022-11-07T16:37:38.936Z",
+		"groundstationName": "Russian"
+	},
+	{
+		"start": "2022-11-08T10:26:39.804Z",
+		"end": "2022-11-08T10:31:37.686Z",
+		"groundstationName": "Russian"
+	},
+	{
+		"start": "2022-11-08T12:08:48.643Z",
+		"end": "2022-11-08T12:12:59.879Z",
+		"groundstationName": "Russian"
+	},
+	{
+		"start": "2022-11-08T13:51:14.358Z",
+		"end": "2022-11-08T13:55:00.042Z",
+		"groundstationName": "Russian"
+	},
+	{
+		"start": "2022-11-08T15:32:39.654Z",
+		"end": "2022-11-08T15:37:33.793Z",
+		"groundstationName": "Russian"
+	},
+	{
+		"start": "2022-11-08T17:14:46.073Z",
+		"end": "2022-11-08T17:17:52.479Z",
+		"groundstationName": "Russian"
+	},
+	{
+		"start": "2022-11-09T09:27:07.726Z",
+		"end": "2022-11-09T09:31:15.936Z",
+		"groundstationName": "Russian"
+	},
+	{
+		"start": "2022-11-09T11:08:12.700Z",
+		"end": "2022-11-09T11:12:57.969Z",
+		"groundstationName": "Russian"
+	},
+	{
+		"start": "2022-11-09T12:50:51.277Z",
+		"end": "2022-11-09T12:54:30.089Z",
+		"groundstationName": "Russian"
+	},
+	{
+		"start": "2022-11-09T14:32:38.298Z",
+		"end": "2022-11-09T14:37:04.221Z",
+		"groundstationName": "Russian"
+	},
+	{
+		"start": "2022-11-09T16:14:05.660Z",
+		"end": "2022-11-09T16:18:49.534Z",
+		"groundstationName": "Russian"
+	},
+	{
+		"start": "2022-11-10T10:07:54.898Z",
+		"end": "2022-11-10T10:12:54.960Z",
+		"groundstationName": "Russian"
+	},
+	{
+		"start": "2022-11-10T11:50:14.072Z",
+		"end": "2022-11-10T11:54:16.425Z",
+		"groundstationName": "Russian"
+	},
+	{
+		"start": "2022-11-10T13:32:32.763Z",
+		"end": "2022-11-10T13:36:24.818Z",
+		"groundstationName": "Russian"
+	},
+	{
+		"start": "2022-11-10T15:13:55.633Z",
+		"end": "2022-11-10T15:18:53.092Z",
+		"groundstationName": "Russian"
+	},
+	{
+		"start": "2022-11-10T16:56:28.856Z",
+		"end": "2022-11-10T16:58:31.826Z",
+		"groundstationName": "Russian"
+	},
+	{
+		"start": "2022-11-11T09:08:10.632Z",
+		"end": "2022-11-11T09:12:39.556Z",
+		"groundstationName": "Russian"
+	},
+	{
+		"start": "2022-11-11T10:49:35.845Z",
+		"end": "2022-11-11T10:54:13.337Z",
+		"groundstationName": "Russian"
+	},
+	{
+		"start": "2022-11-11T12:32:13.959Z",
+		"end": "2022-11-11T12:35:51.285Z",
+		"groundstationName": "Russian"
+	},
+	{
+		"start": "2022-11-11T14:13:53.857Z",
+		"end": "2022-11-11T14:18:28.361Z",
+		"groundstationName": "Russian"
+	},
+	{
+		"start": "2022-11-11T15:55:26.543Z",
+		"end": "2022-11-11T15:59:57.002Z",
+		"groundstationName": "Russian"
+	},
+	{
+		"start": "2022-11-12T08:09:43.591Z",
+		"end": "2022-11-12T08:11:30.796Z",
+		"groundstationName": "Russian"
+	},
+	{
+		"start": "2022-11-12T09:49:12.098Z",
+		"end": "2022-11-12T09:54:11.498Z",
+		"groundstationName": "Russian"
+	},
+	{
+		"start": "2022-11-12T11:31:39.437Z",
+		"end": "2022-11-12T11:35:33.657Z",
+		"groundstationName": "Russian"
+	},
+	{
+		"start": "2022-11-12T13:13:50.285Z",
+		"end": "2022-11-12T13:17:49.990Z",
+		"groundstationName": "Russian"
+	},
+	{
+		"start": "2022-11-12T14:55:12.105Z",
+		"end": "2022-11-12T15:00:10.595Z",
+		"groundstationName": "Russian"
+	},
+	{
+		"start": "2022-11-13T08:49:17.496Z",
+		"end": "2022-11-13T08:54:00.763Z",
+		"groundstationName": "Russian"
+	},
+	{
+		"start": "2022-11-13T10:30:59.936Z",
+		"end": "2022-11-13T10:35:28.778Z",
+		"groundstationName": "Russian"
+	},
+	{
+		"start": "2022-11-13T12:13:35.546Z",
+		"end": "2022-11-13T12:17:13.576Z",
+		"groundstationName": "Russian"
+	},
+	{
+		"start": "2022-11-13T13:55:09.304Z",
+		"end": "2022-11-13T13:59:51.609Z",
+		"groundstationName": "Russian"
+	},
+	{
+		"start": "2022-11-13T15:36:49.691Z",
+		"end": "2022-11-13T15:41:00.675Z",
+		"groundstationName": "Russian"
+	},
+	{
+		"start": "2022-11-14T07:50:18.843Z",
+		"end": "2022-11-14T07:53:17.364Z",
+		"groundstationName": "Russian"
+	},
+	{
+		"start": "2022-11-14T09:30:31.149Z",
+		"end": "2022-11-14T09:35:27.502Z",
+		"groundstationName": "Russian"
+	},
+	{
+		"start": "2022-11-14T11:13:04.467Z",
+		"end": "2022-11-14T11:16:51.726Z",
+		"groundstationName": "Russian"
+	},
+	{
+		"start": "2022-11-14T12:55:07.074Z",
+		"end": "2022-11-14T12:59:15.297Z",
+		"groundstationName": "Russian"
+	},
+	{
+		"start": "2022-11-14T14:36:29.272Z",
+		"end": "2022-11-14T14:41:26.051Z",
+		"groundstationName": "Russian"
+	},
+	{
+		"start": "2022-11-15T08:30:27.595Z",
+		"end": "2022-11-15T08:35:20.239Z",
+		"groundstationName": "Russian"
+	},
+	{
+		"start": "2022-11-15T10:12:24.736Z",
+		"end": "2022-11-15T10:16:44.441Z",
+		"groundstationName": "Russian"
+	},
+	{
+		"start": "2022-11-15T11:54:56.001Z",
+		"end": "2022-11-15T11:58:36.885Z",
+		"groundstationName": "Russian"
+	},
+	{
+		"start": "2022-11-15T13:36:24.784Z",
+		"end": "2022-11-15T13:41:13.733Z",
+		"groundstationName": "Russian"
+	},
+	{
+		"start": "2022-11-15T15:18:16.158Z",
+		"end": "2022-11-15T15:21:59.451Z",
+		"groundstationName": "Russian"
+	},
+	{
+		"start": "2022-11-16T07:31:09.470Z",
+		"end": "2022-11-16T07:34:50.185Z",
+		"groundstationName": "Russian"
+	},
+	{
+		"start": "2022-11-16T09:11:51.811Z",
+		"end": "2022-11-16T09:16:43.130Z",
+		"groundstationName": "Russian"
+	},
+	{
+		"start": "2022-11-16T10:54:28.906Z",
+		"end": "2022-11-16T10:58:10.770Z",
+		"groundstationName": "Russian"
+	},
+	{
+		"start": "2022-11-16T12:36:23.290Z",
+		"end": "2022-11-16T12:40:40.456Z",
+		"groundstationName": "Russian"
+	},
+	{
+		"start": "2022-11-16T14:17:47.369Z",
+		"end": "2022-11-16T14:22:39.161Z",
+		"groundstationName": "Russian"
+	},
+	{
+		"start": "2022-11-17T08:11:40.440Z",
+		"end": "2022-11-17T08:16:38.433Z",
+		"groundstationName": "Russian"
+	},
+	{
+		"start": "2022-11-17T09:53:49.988Z",
+		"end": "2022-11-17T09:58:00.478Z",
+		"groundstationName": "Russian"
+	},
+	{
+		"start": "2022-11-17T11:36:15.358Z",
+		"end": "2022-11-17T11:40:01.045Z",
+		"groundstationName": "Russian"
+	},
+	{
+		"start": "2022-11-17T13:17:40.446Z",
+		"end": "2022-11-17T13:22:34.510Z",
+		"groundstationName": "Russian"
+	},
+	{
+		"start": "2022-11-17T14:59:48.113Z",
+		"end": "2022-11-17T15:02:51.142Z",
+		"groundstationName": "Russian"
+	},
+	{
+		"start": "2022-11-18T07:12:07.576Z",
+		"end": "2022-11-18T07:16:17.126Z",
+		"groundstationName": "Russian"
+	},
+	{
+		"start": "2022-11-18T08:53:13.862Z",
+		"end": "2022-11-18T08:57:58.547Z",
+		"groundstationName": "Russian"
+	},
+	{
+		"start": "2022-11-18T10:35:52.525Z",
+		"end": "2022-11-18T10:39:30.890Z",
+		"groundstationName": "Russian"
+	},
+	{
+		"start": "2022-11-18T12:17:39.094Z",
+		"end": "2022-11-18T12:22:05.205Z",
+		"groundstationName": "Russian"
+	},
+	{
+		"start": "2022-11-18T13:59:06.703Z",
+		"end": "2022-11-18T14:03:49.571Z",
+		"groundstationName": "Russian"
+	},
+	{
+		"start": "2022-11-07T06:11:28.778Z",
+		"end": "2022-11-07T06:13:24.176Z",
+		"groundstationName": "Singapore"
+	},
+	{
+		"start": "2022-11-07T18:29:54.725Z",
+		"end": "2022-11-07T18:34:43.211Z",
+		"groundstationName": "Singapore"
+	},
+	{
+		"start": "2022-11-08T06:51:36.168Z",
+		"end": "2022-11-08T06:55:36.798Z",
+		"groundstationName": "Singapore"
+	},
+	{
+		"start": "2022-11-09T05:51:44.854Z",
+		"end": "2022-11-09T05:55:36.343Z",
+		"groundstationName": "Singapore"
+	},
+	{
+		"start": "2022-11-09T18:11:12.669Z",
+		"end": "2022-11-09T18:15:53.231Z",
+		"groundstationName": "Singapore"
+	},
+	{
+		"start": "2022-11-10T06:33:40.111Z",
+		"end": "2022-11-10T06:36:01.623Z",
+		"groundstationName": "Singapore"
+	},
+	{
+		"start": "2022-11-10T17:13:00.045Z",
+		"end": "2022-11-10T17:14:13.381Z",
+		"groundstationName": "Singapore"
+	},
+	{
+		"start": "2022-11-11T05:32:35.120Z",
+		"end": "2022-11-11T05:37:14.180Z",
+		"groundstationName": "Singapore"
+	},
+	{
+		"start": "2022-11-11T17:52:45.945Z",
+		"end": "2022-11-11T17:56:47.908Z",
+		"groundstationName": "Singapore"
+	},
+	{
+		"start": "2022-11-12T16:53:02.522Z",
+		"end": "2022-11-12T16:56:39.630Z",
+		"groundstationName": "Singapore"
+	},
+	{
+		"start": "2022-11-13T05:13:41.740Z",
+		"end": "2022-11-13T05:18:35.656Z",
+		"groundstationName": "Singapore"
+	},
+	{
+		"start": "2022-11-13T17:34:45.890Z",
+		"end": "2022-11-13T17:37:16.008Z",
+		"groundstationName": "Singapore"
+	},
+	{
+		"start": "2022-11-14T16:33:50.147Z",
+		"end": "2022-11-14T16:38:20.346Z",
+		"groundstationName": "Singapore"
+	},
+	{
+		"start": "2022-11-15T04:55:02.075Z",
+		"end": "2022-11-15T04:59:43.525Z",
+		"groundstationName": "Singapore"
+	},
+	{
+		"start": "2022-11-16T03:56:23.145Z",
+		"end": "2022-11-16T03:58:30.853Z",
+		"groundstationName": "Singapore"
+	},
+	{
+		"start": "2022-11-16T16:14:55.075Z",
+		"end": "2022-11-16T16:19:43.507Z",
+		"groundstationName": "Singapore"
+	},
+	{
+		"start": "2022-11-17T04:36:38.385Z",
+		"end": "2022-11-17T04:40:35.658Z",
+		"groundstationName": "Singapore"
+	},
+	{
+		"start": "2022-11-18T03:36:43.177Z",
+		"end": "2022-11-18T03:40:39.060Z",
+		"groundstationName": "Singapore"
+	},
+	{
+		"start": "2022-11-18T15:56:13.821Z",
+		"end": "2022-11-18T16:00:52.708Z",
+		"groundstationName": "Singapore"
+	},
+	{
+		"start": "2022-11-07T06:24:24.642Z",
+		"end": "2022-11-07T06:25:51.713Z",
+		"groundstationName": "Tokyo"
+	},
+	{
+		"start": "2022-11-07T15:02:17.965Z",
+		"end": "2022-11-07T15:07:10.508Z",
+		"groundstationName": "Tokyo"
+	},
+	{
+		"start": "2022-11-08T05:22:29.468Z",
+		"end": "2022-11-08T05:27:25.483Z",
+		"groundstationName": "Tokyo"
+	},
+	{
+		"start": "2022-11-08T14:03:14.853Z",
+		"end": "2022-11-08T14:05:58.020Z",
+		"groundstationName": "Tokyo"
+	},
+	{
+		"start": "2022-11-09T04:23:46.594Z",
+		"end": "2022-11-09T04:26:21.102Z",
+		"groundstationName": "Tokyo"
+	},
+	{
+		"start": "2022-11-09T14:43:38.940Z",
+		"end": "2022-11-09T14:48:18.268Z",
+		"groundstationName": "Tokyo"
+	},
+	{
+		"start": "2022-11-10T05:03:52.137Z",
+		"end": "2022-11-10T05:08:35.140Z",
+		"groundstationName": "Tokyo"
+	},
+	{
+		"start": "2022-11-10T13:43:58.827Z",
+		"end": "2022-11-10T13:47:51.678Z",
+		"groundstationName": "Tokyo"
+	},
+	{
+		"start": "2022-11-11T04:04:18.747Z",
+		"end": "2022-11-11T04:08:13.036Z",
+		"groundstationName": "Tokyo"
+	},
+	{
+		"start": "2022-11-11T14:25:08.768Z",
+		"end": "2022-11-11T14:29:15.110Z",
+		"groundstationName": "Tokyo"
+	},
+	{
+		"start": "2022-11-12T04:45:24.803Z",
+		"end": "2022-11-12T04:49:37.085Z",
+		"groundstationName": "Tokyo"
+	},
+	{
+		"start": "2022-11-12T13:24:57.399Z",
+		"end": "2022-11-12T13:29:28.347Z",
+		"groundstationName": "Tokyo"
+	},
+	{
+		"start": "2022-11-13T03:45:11.470Z",
+		"end": "2022-11-13T03:49:46.407Z",
+		"groundstationName": "Tokyo"
+	},
+	{
+		"start": "2022-11-13T14:06:53.165Z",
+		"end": "2022-11-13T14:09:55.355Z",
+		"groundstationName": "Tokyo"
+	},
+	{
+		"start": "2022-11-14T04:27:11.133Z",
+		"end": "2022-11-14T04:30:27.712Z",
+		"groundstationName": "Tokyo"
+	},
+	{
+		"start": "2022-11-14T13:06:04.573Z",
+		"end": "2022-11-14T13:10:54.127Z",
+		"groundstationName": "Tokyo"
+	},
+	{
+		"start": "2022-11-15T03:26:16.102Z",
+		"end": "2022-11-15T03:31:09.934Z",
+		"groundstationName": "Tokyo"
+	},
+	{
+		"start": "2022-11-16T04:09:32.223Z",
+		"end": "2022-11-16T04:10:46.043Z",
+		"groundstationName": "Tokyo"
+	},
+	{
+		"start": "2022-11-16T12:47:18.803Z",
+		"end": "2022-11-16T12:52:10.632Z",
+		"groundstationName": "Tokyo"
+	},
+	{
+		"start": "2022-11-17T03:07:30.252Z",
+		"end": "2022-11-17T03:12:26.055Z",
+		"groundstationName": "Tokyo"
+	},
+	{
+		"start": "2022-11-17T11:48:13.154Z",
+		"end": "2022-11-17T11:51:01.233Z",
+		"groundstationName": "Tokyo"
+	},
+	{
+		"start": "2022-11-18T02:08:43.569Z",
+		"end": "2022-11-18T02:11:25.000Z",
+		"groundstationName": "Tokyo"
+	},
+	{
+		"start": "2022-11-18T12:28:40.231Z",
+		"end": "2022-11-18T12:33:17.804Z",
+		"groundstationName": "Tokyo"
+	}
+]
