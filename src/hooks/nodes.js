@@ -33,3 +33,11 @@ export const useCreateCommandMutation = () => {
     const { commands } = useLeanspaceAPI();
     return useMutation(commands.create.bind(commands));
 };
+
+export const useGroundStationCoordinates = (...params) => {
+    const { properties } = useLeanspaceAPI();
+    // return useQuery(['properties', { ...params }], () => properties.getAll(...params), {
+    return useQuery(['properties', { ...params }], () => properties.getAll(...params), {
+        keepPreviousData: true,
+    });
+}

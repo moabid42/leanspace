@@ -14,8 +14,6 @@ import PsychologyOutlinedIcon from "@mui/icons-material/PsychologyOutlined";
 import AccountCircleOutlinedIcon from "@mui/icons-material/AccountCircleOutlined";
 import { Link } from "react-router-dom";
 // import { DarkModeContext } from "../../context/darkModeContext";
-import { useContext } from "react";
-import { UserContext } from "/home/n0bless/Documents/Projects/leanspace/react-starter-kit-alistair-hackathonfix/src/Contexts/UserContext";
 
 
 
@@ -23,11 +21,11 @@ import { UserContext } from "/home/n0bless/Documents/Projects/leanspace/react-st
 
 const Sidebar = () => {
   // const { login } = useContext(UserContext);
-  const logout = async () => {
-    const logout = await Auth.signOut();
-    // login.isLoggedIn = false;
-    console.log("hello");
-  };
+  // const logout = async () => {
+  //   const logout = await Auth.signOut();
+  //   // login.isLoggedIn = false;
+  //   console.log("hello");
+  // };
 
 
   //   const { dispatch } = useContext(DarkModeContext);
@@ -41,23 +39,29 @@ const Sidebar = () => {
         <ul>
           <p className="title">MAIN</p>
           <Link to="/" style={{ textDecoration: "none" }}>
-          <li>
-            <DashboardIcon className="icon" />
-            <span>Home</span>
-          </li>
+            <li>
+              <DashboardIcon className="icon" />
+              <span>Home</span>
+            </li>
           </Link>
           <p className="title">USEFUL</p>
           <Link to="/sattelites" style={{ textDecoration: "none" }}>
-          <li>
-            <InsertChartIcon className="icon" />
-            <span>Satellites</span>
-          </li>
+            <li>
+              <InsertChartIcon className="icon" />
+              <span>Satellites</span>
+            </li>
+          </Link>
+          <Link to="/ground-stations" style={{ textDecoration: "none" }}>
+            <li>
+              <InsertChartIcon className="icon" />
+              <span>Ground Stations</span>
+            </li>
           </Link>
           <Link to="/tle" style={{ textDecoration: "none" }}>
-          <li>
-            <InsertChartIcon className="icon" />
-            <span>TLEs</span>
-          </li>
+            <li>
+              <InsertChartIcon className="icon" />
+              <span>TLEs</span>
+            </li>
           </Link>
           <p className="title">SERVICE</p>
           <li>
@@ -77,11 +81,11 @@ const Sidebar = () => {
             <AccountCircleOutlinedIcon className="icon" />
             <span>Profile</span>
           </li>
-          <Link to="/login" style={{ textDecoration: "none" }} onClick={logout}>
-          <li>
-            <ExitToAppIcon className="icon" />
-            <span>Logout</span>
-          </li>
+          <Link to="/login" style={{ textDecoration: "none" }}>
+            <li>
+              <ExitToAppIcon className="icon" />
+              <span>Logout</span>
+            </li>
           </Link>
         </ul>
       </div>

@@ -8,7 +8,7 @@ export function fetchData() {
             'x-api-key': 'da2-ckfnur3aknb4zhrpkesejjmq24'
         },
         body: JSON.stringify({
-            'query': 'query MyQuery {\n  searchRequests(sort: {direction: desc, field: createdAt},filter: {assignedToTeam: {eq: "TheHitchikers"}, status: {eq: "STANDBY"}}, limit: 20) {\n    items {\n      assignedToTeam\n      createdBy\n      id\n      name\n      priority\n      status\n      type\n    }\n  }\n}\n',
+            'query': 'query MyQuery {\n  searchRequests(sort: {direction: desc, field: createdAt},filter: {assignedToTeam: {eq: "TheHitchikers"}, status: {eq: "STANDBY"}}, limit: 20) {\n    items {\n      assignedToTeam\n      createdBy\n      id\n      name\n      priority\n      status\n      type\n   coordinates {\n        lat\n        lon\n      }\n }\n  }\n}\n',
             'variables': null,
             'operationName': 'MyQuery'
         })
@@ -25,6 +25,4 @@ export function handleData(requestsData, satelitesData, groundStations) {
     console.log("req:", requestsData);
     console.log("sat:", satelitesData);
     console.log("grand:", groundStations);
-
-
 };

@@ -71,7 +71,7 @@ export default function BasicTable() {
     return (
         <>
             <button
-                onClick={async () => {
+                onClick={() => {
                     createCommandMutation(commandPayload);
                     const commandId = transmitCommandMutation(commandTransmissionPayload)
                         .then((res) => res)
@@ -84,7 +84,7 @@ export default function BasicTable() {
                     console.log(commandId);
                 }}
             >
-                {isTransmitting ? "Transmitting..." : "Transmit a command"}
+                {isTransmitting ? "Transmitting..." : "Transmit a request and save the earth!"}
             </button>
         </>
     );

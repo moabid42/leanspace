@@ -1,14 +1,11 @@
 // This is the start of your own application!
-import LeanspaceWidget from "./LeanspaceWidget";
 import Navbar from "./Navbar/Navbar";
 import Sidebar from "./Sidebar/Sidebar.jsx";
 import "./Main.scss";
 import ScrollableTabsButtonPrevent from "./tabs";
-import BasicTable from "./BasicTable";
 
 
 const Main = () => {
-
 
   return (
     <>
@@ -20,7 +17,6 @@ const Main = () => {
             <ScrollableTabsButtonPrevent />
           </div>
         </div>
-        <BasicTable />
       </div>
     </>
   );
