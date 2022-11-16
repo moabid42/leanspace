@@ -1,0 +1,15 @@
+.rightButton {
+    background-color: #f16413;
+    border-color: #f16413;
+    margin-left: 21px;
+    color: #fff;
+}
+
+.gauges {
+    display: flex;
+}
+
+.wig {
+    width: 30%;
+    height: 300px;
+}

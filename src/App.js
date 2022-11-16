@@ -17,6 +17,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 import TLE from "./Components/tle";
 import Home from "./Components/Home";
+import Groundstations from "./Components/Groundstations";
 
 import { UserContext } from "./Contexts/UserContext";
 
@@ -59,6 +60,36 @@ function App() {
   const [isLoggedIn, setLoggedIn] = useState(false);
   const [token, updateToken] = useState(null);
   const [didNotFindTenant, setDidNotFindTenant] = useState(false);
+
+  const [time, setTime] = useState(600000);
+
+  const [countDownData, setCountdownData] = useState({
+    minutes: 0,
+    seconds: 0,
+    millis: 0,
+  });
+
+  useEffect(() => {
+    const interval = setInterval(() => {
+      setTime(time => {
+        if (time < 0) {
+          clearInterval(interval);
+          setCountdownData({ ...countDownData, minutes: 0, seconds: 0, millis: 0 });
+          return 0;
+        } else {
+          setCountdownData({
+            ...countDownData, minutes: [Math.floor(time / 1000 / 60)],
+            seconds: [Math.floor((time / 1000) % 60)], millis: [time % 99]
+          });
+          return time - 60;
+        }
+
+      });
+    }, 60);
+    return e => clearInterval(interval);
+  }, []);
+
+
 
   useEffect(function loadTenantConfig() {
     setDidNotFindTenant(false);
@@ -114,10 +145,11 @@ function App() {
               <BrowserRouter>
                 <Routes>
                   <Route path="/">
-                    <Route index element={<Home />} />
+                    <Route index element={<Home countDownData={countDownData} />} />
                     <Route path="sattelites" element={<Main />} />
                     {/* <Route path="home" element={<Home />} /> */}
                     <Route path="tle" element={<TLE />} />
+                    <Route path="ground-stations" element={<Groundstations />} />
                     <Route path="/login" element={<Login />} />
                   </Route>
                 </Routes>
