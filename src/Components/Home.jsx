@@ -12,6 +12,7 @@ import { userData } from "./data"
 import { red } from "@mui/material/colors";
 import { withTheme } from "@emotion/react";
 import background from "./background.png";
+import SendCurl from "./SendCurl";
 
 const Home = ({ countDownData }) => {
     console.log('from home', countDownData)
@@ -34,7 +35,10 @@ const Home = ({ countDownData }) => {
                                     </div>
                                 )
                             }
-                            <BasicTable />
+                            <div className="buttons">
+                                <BasicTable />
+                                <SendCurl requestId={"e39ee04f-5c8e-4553-95fb-2ec7dfb3eb4d"} imageId={"e983d6c5-f2cd-4a61-80b1-20b28c9c5773"} />
+                            </div>
                         </div>
                     </div>
                     <div className="background">
